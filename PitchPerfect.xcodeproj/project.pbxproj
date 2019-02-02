@@ -14,6 +14,7 @@
 		848D18A31F6A8E7C00A7E420 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848D18A21F6A8E7C00A7E420 /* Assets.xcassets */; };
 		848D18A61F6A8E7C00A7E420 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848D18A41F6A8E7C00A7E420 /* LaunchScreen.storyboard */; };
 		848D18B21F72773000A7E420 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848D18B11F72772F00A7E420 /* PlaySoundsViewController.swift */; };
+		B55928332205B6CF00AA5A17 /* screenshots in Resources */ = {isa = PBXBuildFile; fileRef = B55928322205B6CF00AA5A17 /* screenshots */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		848D18A51F6A8E7C00A7E420 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		848D18A71F6A8E7C00A7E420 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		848D18B11F72772F00A7E420 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		B55928322205B6CF00AA5A17 /* screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = screenshots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		848D188F1F6A8E7B00A7E420 = {
 			isa = PBXGroup;
 			children = (
+				B55928322205B6CF00AA5A17 /* screenshots */,
 				848D189A1F6A8E7C00A7E420 /* PitchPerfect */,
 				848D18991F6A8E7C00A7E420 /* Products */,
 			);
@@ -129,6 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B55928332205B6CF00AA5A17 /* screenshots in Resources */,
 				848D18A61F6A8E7C00A7E420 /* LaunchScreen.storyboard in Resources */,
 				848D18A31F6A8E7C00A7E420 /* Assets.xcassets in Resources */,
 				848D18A11F6A8E7C00A7E420 /* Main.storyboard in Resources */,
