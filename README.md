@@ -11,7 +11,7 @@ This app let's you make a recording and play it back in six fun pitch variations
 
 ## Usage
 1. When the app is started, you can use the mic button to start a recording.
-2. Once you are done, use the stop button to stop recording
+2. Once you are done, use the stop button to stop recording.
 3. On the pitch selector page, you can use one of the icons to play back the recording with a different pitch.
 4. Use the stop button to stop the playback.
 
